@@ -32,3 +32,7 @@ project/
 
 ## Getting Started
 Follow the detailed instructions in the docs/ folder for each part of the project.
+
+## Repository Information
+- **GitHub Repository:** https://github.com/matin235-ops/ddevops-refactoring-project
+- **Clone Command:** `git clone https://github.com/matin235-ops/ddevops-refactoring-project.git`

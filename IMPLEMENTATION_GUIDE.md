@@ -77,7 +77,7 @@ You now have a complete project structure with all necessary files and documenta
    git commit -m "Initial project setup with DevOps pipeline"
    
    # Add your GitHub repository as remote (replace with your actual URL)
-   git remote add origin https://github.com/YOUR-USERNAME/devops-refactoring-project.git
+   git remote add origin https://github.com/matin235-ops/ddevops-refactoring-project.git
    
    # Push to GitHub
    git branch -M main

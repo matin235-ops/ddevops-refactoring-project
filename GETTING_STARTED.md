@@ -12,8 +12,8 @@
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/devops-refactoring-project.git
-cd devops-refactoring-project
+git clone https://github.com/matin235-ops/ddevops-refactoring-project.git
+cd ddevops-refactoring-project
 ```
 
 2. **Install dependencies:**

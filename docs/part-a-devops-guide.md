@@ -1,4 +1,10 @@
-# Part A: DevOps Implementation Guide (10%)
+# Part A: DevOps Implementation2. **Create GitHub Repository:**
+   - Go to https://github.com
+   - Click "New repository"
+   - Repository name: "ddevops-refactoring-project"
+   - Make it public or private (as per requirements)
+   - Initialize with README
+   - **Your repository URL:** https://github.com/matin235-ops/ddevops-refactoring-project (10%)
 
 This guide provides step-by-step instructions for implementing the DevOps pipeline requirements.
 
@@ -58,7 +64,7 @@ This guide provides step-by-step instructions for implementing the DevOps pipeli
    ```
 
 ### Deliverable:
-- GitHub repository URL
+- GitHub repository URL: https://github.com/matin235-ops/ddevops-refactoring-project
 - Screenshot of repository with collaborators
 
 ## 3. Install and Setup Jenkins with Required Plugins
