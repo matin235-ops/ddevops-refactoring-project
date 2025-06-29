@@ -1,0 +1,25 @@
+{
+    "name": "devops-refactoring-project",
+    "version": "1.0.0",
+    "description": "DevOps and Code Refactoring Project",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js",
+        "test": "jest",
+        "dev": "nodemon src/app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "^7.5.0",
+        "bcryptjs": "^2.4.3",
+        "jsonwebtoken": "^9.0.2"
+    },
+    "devDependencies": {
+        "jest": "^29.6.2",
+        "nodemon": "^3.0.1",
+        "supertest": "^6.3.3"
+    },
+    "keywords": ["devops", "refactoring", "jenkins", "docker"],
+    "author": "Your Name",
+    "license": "MIT"
+}
